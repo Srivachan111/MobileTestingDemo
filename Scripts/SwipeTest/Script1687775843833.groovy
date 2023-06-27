@@ -43,6 +43,6 @@ def endy =Mobile.getDeviceHeight()*0.7
 
 LastElement = Mobile.getText(findTestObject('Object Repository/SwipeDemo/Txt YouTube Music'), 3)
 Mobile.scrollToText(LastElement)
-
+ 
 FirstElement = Mobile.getText(findTestObject('Object Repository/SwipeDemo/Txt Android Auto'), 3)
 Mobile.scrollToText(FirstElement)
