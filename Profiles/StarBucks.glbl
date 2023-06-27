@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>StarBucks</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'app-preprod-universal-release.apk'</initValue>
+      <name>Stbapk_name</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'stanza.apk'</initValue>
+      <name>stanza</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

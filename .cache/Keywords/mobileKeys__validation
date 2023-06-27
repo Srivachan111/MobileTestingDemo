@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "0FC704B22EF55024323A9E42E01DB413",
+  "keywordClasses": [
+    {
+      "name": "mobileKeys.validation",
+      "keywordMethods": [
+        {
+          "name": "validationErroMsg",
+          "parameters": [
+            {
+              "name": "errmsg",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
